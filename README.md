@@ -7,6 +7,6 @@ $ python3 app.py
 ```
 
 Result 
-![Result](https://raw.githubusercontent.com/guritnoadis/ScrapeTable/master/output.png)
+![Result](https://raw.githubusercontent.com/guritnoadis/ScrapeTable/master/ouput.png)
 ![Result](https://raw.githubusercontent.com/guritnoadis/ScrapeTable/master/result.png)
 
